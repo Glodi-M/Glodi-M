@@ -20,7 +20,7 @@
 
 ## 👨‍💻 À propos de moi
 
-🔐 Étudiant en Cybersécurité, passionné par le développement Full Stack, la sécurité informatique et l’Identity & Access Management (IAM). Curieux, rigoureux et toujours en apprentissage, je développe des solutions performantes et sécurisées tout en explorant les technologies de demain. Mon objectif est de bâtir des ponts solides entre le développement logiciel et les infrastructures sécurisées.
+Étudiant en Cybersécurité, passionné par le développement Full Stack, la sécurité informatique et l’Identity & Access Management (IAM). Curieux, rigoureux et toujours en apprentissage, je développe des solutions performantes et sécurisées tout en explorant les technologies de demain. Mon objectif est de bâtir des ponts solides entre le développement logiciel et les infrastructures sécurisées.
 
 ---
 
