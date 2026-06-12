@@ -1,11 +1,19 @@
-<h1 align="center">Hi there 👋, je suis Glodi Mietete</h1>
+<h1 align="center">Salut 👋, je suis Glodi Mietete</h1>
 
 <h3 align="center">
   💻 Développeur Web Passionné | 🔐 Futur Spécialiste IAM | 🚀 Tech Enthusiast
 </h3>
 
+<br/>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Future+IAM+Engineer;Web+%26+Cloud+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <a href="https://glodimietete.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=0BB0E6&center=true&vCenter=true&width=600&lines=👨‍💻+Développeur+Full+Stack;🛡️+Passionné+de+Cybersécurité;🔐+Futur+Ingénieur+IAM;🚀+Toujours+en+Apprentissage" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Glodi-M&label=Vues%20du%20profil&color=252525&style=for-the-badge" alt="Vues du profil" />
 </p>
 
 ---
