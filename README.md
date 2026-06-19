@@ -1,9 +1,7 @@
 <h1 align="center">Salut 👋, je suis Glodi Mietete</h1>
-
 <h3 align="center">
   💻 Développeur Web Passionné | 🔐 Futur Spécialiste IAM | 🚀 Tech Enthusiast
 </h3>
-
 <br/>
 
 <p align="center">
