@@ -1,6 +1,6 @@
-<h1 align="center">Hey👋, I'm Glodi Mietete</h1>
+<h1 align="center">Hi 👋, I'm Glodi Mietete</h1>
 <h3 align="center">
-  💻 Développeur Full Stack | Futur Ingénieur IAM | Passionné de Cybersécurité
+   Développeur Full Stack | Futur Ingénieur IAM | Passionné de Cybersécurité
 </h3>
 <br/>
 
