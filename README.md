@@ -15,7 +15,7 @@
 
 Étudiant en **Cybersécurité**, passionné par le développement Full Stack, la sécurité des systèmes d'information et l'**Identity & Access Management (IAM)**. Je construis des applications web performantes et sécurisées tout en approfondissant ma maîtrise des architectures Zero Trust, des protocoles d'authentification modernes et des infrastructures virtualisées.
 
-> 🎯 Mon objectif : devenir un ingénieur à la croisée du **développement logiciel** et de la **sécurité des identités numériques**.
+> 🎯 objectif : devenir un ingénieur à la croisée du **développement logiciel** et de la **sécurité des identités numériques**.
 
 ---
 
