@@ -66,7 +66,6 @@
   <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white" />
   <img src="https://img.shields.io/badge/OAuth_2.0-EB5424?style=for-the-badge&logo=auth0&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenID_Connect-F78C40?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SAML_2.0-0052CC?style=for-the-badge" />
   <img src="https://img.shields.io/badge/LDAP-003366?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/Zero_Trust-6C2DC7?style=for-the-badge" />
@@ -108,16 +107,7 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Glodi-M&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glodi-M&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Glodi-M&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Glodi-M&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophées GitHub" />
 </div>
 
 ---
@@ -132,7 +122,6 @@
 | 🔄 | Obtenir une **certification en cybersécurité** (CompTIA Security+ / CEH) |
 | 🔄 | Concevoir une **architecture IAM complète** avec Keycloak + Zero Trust |
 | 🔄 | Contribuer à des projets **open source** en sécurité |
-| 📌 | Décrocher un **stage/alternance** en Sécurité / IAM |
 
 ---
 
