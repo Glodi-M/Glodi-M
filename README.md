@@ -1,14 +1,8 @@
-<h1 align="center">Salut 👋, je suis Glodi Mietete</h1>
+<h1 align="center">Hey👋, I'm Glodi Mietete</h1>
 <h3 align="center">
-  💻 Développeur Full Stack | 🔐 Futur Ingénieur IAM | 🛡️ Passionné de Cybersécurité
+  💻 Développeur Full Stack | Futur Ingénieur IAM | Passionné de Cybersécurité
 </h3>
 <br/>
-
-<p align="center">
-  <a href="https://glodimietete.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0BB0E6&center=true&vCenter=true&width=650&lines=👨‍💻+Développeur+Full+Stack;🛡️+Passionné+de+Cybersécurité;🔐+Futur+Ingénieur+IAM;🚀+Toujours+en+Apprentissage;🌍+Code.+Learn.+Build.+Secure." alt="Typing SVG" />
-  </a>
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Glodi-M&label=Vues%20du%20profil&color=0BB0E6&style=for-the-badge" alt="Vues du profil" />
