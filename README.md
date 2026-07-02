@@ -1,30 +1,34 @@
 <h1 align="center">Salut 👋, je suis Glodi Mietete</h1>
 <h3 align="center">
-  💻 Développeur Web Passionné | 🔐 Futur Spécialiste IAM | 🚀 Tech Enthusiast
+  💻 Développeur Full Stack | 🔐 Futur Ingénieur IAM | 🛡️ Passionné de Cybersécurité
 </h3>
 <br/>
 
 <p align="center">
   <a href="https://glodimietete.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=0BB0E6&center=true&vCenter=true&width=600&lines=👨‍💻+Développeur+Full+Stack;🛡️+Passionné+de+Cybersécurité;🔐+Futur+Ingénieur+IAM;🚀+Toujours+en+Apprentissage" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0BB0E6&center=true&vCenter=true&width=650&lines=👨‍💻+Développeur+Full+Stack;🛡️+Passionné+de+Cybersécurité;🔐+Futur+Ingénieur+IAM;🚀+Toujours+en+Apprentissage;🌍+Code.+Learn.+Build.+Secure." alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Glodi-M&label=Vues%20du%20profil&color=252525&style=for-the-badge" alt="Vues du profil" />
+  <img src="https://komarev.com/ghpvc/?username=Glodi-M&label=Vues%20du%20profil&color=0BB0E6&style=for-the-badge" alt="Vues du profil" />
+  <img src="https://img.shields.io/github/followers/Glodi-M?label=Followers&style=for-the-badge&color=0BB0E6&labelColor=252525" alt="Followers" />
 </p>
 
 ---
 
 ## 👨‍💻 À propos de moi
 
-Étudiant en Cybersécurité, passionné par le développement Full Stack, la sécurité informatique et l’Identity & Access Management (IAM). Curieux, rigoureux et toujours en apprentissage, je développe des solutions performantes et sécurisées tout en explorant les technologies de demain. Mon objectif est de bâtir des ponts solides entre le développement logiciel et les infrastructures sécurisées.
+Étudiant en **Cybersécurité**, passionné par le développement Full Stack, la sécurité des systèmes d'information et l'**Identity & Access Management (IAM)**. Je construis des applications web performantes et sécurisées tout en approfondissant ma maîtrise des architectures Zero Trust, des protocoles d'authentification modernes et des infrastructures virtualisées.
+
+> 🎯 Mon objectif : devenir un ingénieur à la croisée du **développement logiciel** et de la **sécurité des identités numériques**.
 
 ---
 
 ## 🛠️ Compétences & Technologies
 
 ### 💻 Développement Web
+
 **Frontend:**
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -42,19 +46,37 @@
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
 </p>
 
-**Databases:**
+**Bases de données:**
 <p>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
+---
+
+### 🔐 IAM & Sécurité des Identités
+
+<p>
+  <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white" />
+  <img src="https://img.shields.io/badge/OAuth_2.0-EB5424?style=for-the-badge&logo=auth0&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenID_Connect-F78C40?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SAML_2.0-0052CC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LDAP-003366?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zero_Trust-6C2DC7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MFA-00897B?style=for-the-badge" />
+</p>
+
+---
+
 ### 🛡️ Cybersécurité & Réseaux
+
 <p>
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
@@ -66,7 +88,10 @@
   <img src="https://img.shields.io/badge/Firewall-FF4500?style=for-the-badge" />
 </p>
 
+---
+
 ### ⚙️ Systèmes, Virtualisation & DevOps
+
 <p>
   <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
@@ -83,32 +108,46 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/Glodi-M">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Glodi-M&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
-  <a href="https://github.com/Glodi-M">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glodi-M&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Glodi-M&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glodi-M&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Glodi-M&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Glodi-M&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophées GitHub" />
 </div>
 
 ---
 
 ## 🎯 Objectifs 2026
 
-- ✅ **Maîtriser Next.js & TypeScript**
-- ✅ **Construire des applications Full Stack sécurisées** (Express + MongoDB)
-- ✅ **Approfondir l'administration système** (Proxmox, Kubernetes, Linux)
-- ✅ **Développer des compétences IAM & SIEM/EDR**
-- ✅ **Pratiquer le pentesting** (Kali, Burp Suite, BeEF)
+| Statut | Objectif |
+|--------|----------|
+| ✅ | Maîtriser **Next.js & TypeScript** |
+| ✅ | Construire des applications **Full Stack sécurisées** (Express + MongoDB) |
+| ✅ | Approfondir l'**administration système** (Proxmox, Kubernetes, Linux) |
+| 🔄 | Obtenir une **certification en cybersécurité** (CompTIA Security+ / CEH) |
+| 🔄 | Concevoir une **architecture IAM complète** avec Keycloak + Zero Trust |
+| 🔄 | Contribuer à des projets **open source** en sécurité |
+| 📌 | Décrocher un **stage/alternance** en Sécurité / IAM |
 
 ---
 
 ## 🌐 Me Contacter
 
 <p align="center">
-  <a href="https://glodimietete.com"><img src="https://img.shields.io/badge/Site_Web-252525?style=for-the-badge" /></a>
-  <a href="https://www.linkedin.com/in/glodi-mietete-35379b245"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:glodimietete@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://glodimietete.com">
+    <img src="https://img.shields.io/badge/Site_Web-252525?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/glodi-mietete-35379b245">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:glodimietete@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
