@@ -101,20 +101,6 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
-
----
-
-## 🎯 Objectifs 2026
-
-| Statut | Objectif |
-|--------|----------|
-| ✅ | Maîtriser **Next.js & TypeScript** |
-| ✅ | Construire des applications **Full Stack sécurisées** (Express + MongoDB) |
-| ✅ | Approfondir l'**administration système** (Proxmox, Kubernetes, Linux) |
-| 🔄 | Obtenir une **certification en cybersécurité** (CompTIA Security+ / CEH) |
-| 🔄 | Concevoir une **architecture IAM complète** avec Keycloak + Zero Trust |
-| 🔄 | Contribuer à des projets **open source** en sécurité |
-
 ---
 
 ## 🌐 Me Contacter
